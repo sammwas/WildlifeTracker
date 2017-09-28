@@ -4,7 +4,7 @@ import java.util.List;
 import java.sql.Timestamp;
 
 
-public abstract class Animal {
+public class Animal {
     public int id;
     public String name;
 
